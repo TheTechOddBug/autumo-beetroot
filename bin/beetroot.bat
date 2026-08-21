@@ -18,7 +18,7 @@ cd %ROOT%
 REM 
 REM  Build the classpath
 REM 
-set CLASSPATH=%ROOT%;%ROOT%/web;%ROOT%/lib/*
+set CLASSPATH=%ROOT%;%ROOT%/lib/*
 
 
 

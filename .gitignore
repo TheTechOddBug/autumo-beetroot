@@ -12,3 +12,5 @@
 /javadoc.sh
 /versions.sh
 /make.log
+/jip.lock
+/jip.toml

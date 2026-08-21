@@ -143,8 +143,9 @@ public class LanguageManager {
 
 	            	// 1. Default language bundles (e.g. lang_default.properties, pw_default.properties, tmpl_lang_default.properties)
 		        	ResourceBundle defaultBundle = null;
-		        	final Locale defaultLocale = Locale.getDefault();
-
+		        	final String defaultLang = Locale.getDefault().getLanguage();
+		        	final Locale defaultLocale = new Locale(defaultLang);
+		        	
 		        	for (int i = 0; i < langs.length; i++) {
 
 		            	// a. Within servlets

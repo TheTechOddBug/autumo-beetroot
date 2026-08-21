@@ -27,7 +27,7 @@ ROOT=`pwd`
 #
 # Base classpath
 #
-CLASSPATH=${ROOT}:${ROOT}/web
+CLASSPATH=${ROOT}
 
 #
 # Dynamically build the classpath
