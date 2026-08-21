@@ -1,13 +1,15 @@
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/autumoswitzerland/autumo.svg?style=for-the-badge
-[contributors-url]: https://github.com/autumoswitzerland/autumo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/autumoswitzerland/autumo.svg?style=for-the-badge
-[forks-url]: https://github.com/autumoswitzerland/autumo/network/members
-[stars-shield]: https://img.shields.io/github/stars/autumoswitzerland/autumo.svg?style=for-the-badge
-[stars-url]: https://github.com/autumoswitzerland/autumo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/autumoswitzerland/autumo.svg?style=for-the-badge
-[issues-url]: https://github.com/autumoswitzerland/autumo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/autumoswitzerland/autumo-beetroot.svg?style=for-the-badge
+[contributors-url]: https://github.com/autumoswitzerland/autumo-beetroot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/autumoswitzerland/autumo-beetroot.svg?style=for-the-badge
+[forks-url]: https://github.com/autumoswitzerland/autumo-beetroot/network/members
+[stars-shield]: https://img.shields.io/github/stars/autumoswitzerland/autumo-beetroot.svg?style=for-the-badge
+[stars-url]: https://github.com/autumoswitzerland/autumo-beetroot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/autumoswitzerland/autumo-beetroot.svg?style=for-the-badge
+[issues-url]: https://github.com/autumoswitzerland/autumo-beetroot/issues
 [license-shield]: https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge
 [license-url]: https://opensource.org/licenses/Apache-2.0
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
@@ -29,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
-  <a href="https://github.com/autumoswitzerland/autumo/tree/master/autumo-beetroot">
+  <a href="https://github.com/autumoswitzerland/autumo-beetroot">
     <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-beetroot/master/web/img/beetroot.png" alt="Logo" width="200" height="200" />
   </a>
 
@@ -38,9 +40,9 @@
   <p align="center">
     A Slim & Rapid Java Web Framework
     <br>
-    <a href="https://github.com/autumoswitzerland/autumo/issues">Report Bug</a>
+    <a href="https://github.com/autumoswitzerland/autumo-beetroot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/autumoswitzerland/autumo/issues">Request Feature</a>
+    <a href="https://github.com/autumoswitzerland/autumo-beetroot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -277,4 +279,3 @@ Your donation helps to develop autumo beetRoot further. Thank you!
 Copyright 2025, autumo Ltd., Switzerland
 
 <p align="right"><a href="#top">&uarr;</a></p>
-
